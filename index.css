@@ -13,6 +13,14 @@ header{
     line-height: 72px;
     margin-bottom: 20px;
 
+
+}
+.subhead{
+        text-align: center;
+        position: relative;
+
+}
+
 }
 .head{
     text-align: center;
